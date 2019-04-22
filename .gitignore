@@ -1,0 +1,6 @@
+#folder
+npm_modules/
+config/
+
+# Optional things
+log/
