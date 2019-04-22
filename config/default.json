@@ -1,0 +1,12 @@
+{
+    "App": {
+        "Config": {
+            "host": "localhost",
+            "port": "3000",
+            "env_name": "Development Environment"
+        },
+        "dbConfig": {
+            "connectionstring": "mongodb+srv://githubuser:githubuserpassword@cluster0-0sn3d.azure.mongodb.net/github_MongoDB?retryWrites=true"
+        }
+    }
+}
